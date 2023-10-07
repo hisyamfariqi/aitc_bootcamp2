@@ -1,16 +1,26 @@
 # aitc_bootcamp2
 
-A new Flutter project.
+A project for AITC Flutter Bootcamp.
 
-## Getting Started
+## Getting Startedaf
 
-This project is a starting point for a Flutter application.
+Do not clone this, instead try to understand the structure by following the instructions below:
+1. Create a new flutter project on your own laptop/PC with the command below
+```
+flutter create [your_project_name]
+```
+2. Add the http dependency in your pubspec.yaml
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/hisyamfariqi/aitc_bootcamp2/assets/33994226/7a5203a2-7bf9-4cd7-8350-7459ee644a37)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can directly add by writing yourself or use the command below on your terminal:
+```
+flutter pub add http
+```
+Then after adding http dependency to your pubspec.yaml, run this command:
+```
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Create a new view file called data_screen and data_detail_screen, you can see the code in this repository inside lib folder.
+
