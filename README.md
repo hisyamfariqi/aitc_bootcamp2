@@ -22,5 +22,11 @@ Then after adding http dependency to your pubspec.yaml, run this command:
 flutter pub get
 ```
 
-3. Create a new view file called data_screen and data_detail_screen, you can see the code in this repository inside lib folder.
+3. Create a new view file called data_screen.
+
+![image](https://github.com/hisyamfariqi/aitc_bootcamp2/assets/33994226/5c224318-d3f4-43e5-82e6-16f7ef4c43a2)
+
+4. Create a new view file called data_detail_screen.
+
+![image](https://github.com/hisyamfariqi/aitc_bootcamp2/assets/33994226/8871eaf1-9f6e-4b38-9ea5-9ac4c29123b4)
 
